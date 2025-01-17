@@ -1,5 +1,5 @@
-# frontend structure of a website HTML + Bootstrap
-Learned through the new learnings a simple basic HTML,CSS (+bootstrap) work.
+# Frontend structure of a website HTML + Bootstrap
+Work of a learning basics of HTML,CSS (+bootstrap).
 I just made this for fun while working on front end stuff 
 ## Languages
 Javascript  
